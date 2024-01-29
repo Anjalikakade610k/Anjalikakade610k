@@ -37,7 +37,7 @@
       <li>⚡️ Graduate Teaching Assistant: Program Structure & Algorithms - <a href="https://coe.northeastern.edu/">College of Engineering, Northeastern University</a></li>
       <li>⚡️ Software Engineer Intern - <a href="https://crewasis.ai/">Crewasis</a></li>
       <li>⚡️ Customer Experience Technician - <a href="https://its.northeastern.edu/">Northeastern IT Services</a></li>
-      <li>⚡️ Software Engineer Intern - <a href="https://www.ikf.co.in/">Infogen Labs</a></li>
+      <li>⚡️ Software Engineer Intern - <a href="https://www.ikf.co.in/">I Knowledge Factory</a></li>
       <li>⚡️ Software Engineer Virtual Experience - <a href="">JP Morgan Chase & Co.</a></li>
     </ul>
   </section>
