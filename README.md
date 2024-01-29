@@ -7,13 +7,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Anjali Kakade</title>
+<!--   <title>Anjali Kakade</title> -->
  <p>Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2023. Feel free to explore and get in touch!</p>
 </head>
 
 <body>
   <header>
-<!--     <h1>Anjali Kakade</h1> -->
+    <h1>Anjali Kakade</h1>
     <p>I am a Software Developer/Web Developer 💻❤️</p>
   </header>
 
