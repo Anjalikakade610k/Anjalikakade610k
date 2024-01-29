@@ -6,21 +6,19 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mansi Pravin Thanki</title>
-  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 </head>
 
 <body>
   <header>
-    <h1>Mansi Pravin Thanki</h1>
-    <p>A Technology and Data Enthusiast, Software Engineer and Web Developer 💻❤️</p>
+    <h1>Anjali Kakade</h1>
+    <p>Iam a Software Developer/Web Developer 💻❤️</p>
   </header>
 
   <section>
     <h2>About Me</h2>
-    <p>Hi, I'm Mansi Pravin Thanki, a skilled <strong>Software Developer</strong> specializing in <strong>Data Science and Artificial Intelligence</strong>. I recently graduated with a <strong>Master's degree in Computer Science from Northeastern University</strong>. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.</p>
-    <img src="https://komarev.com/ghpvc/?username=mansithanki&color=green" alt="Profile Views" />
+    <p>Hi, I'm Anjali Kakade, a skilled <strong>Software Developer</strong> specializing in <strong>Frontend, Backend, Full-stack development</strong>. I am currently pursuing <strong>Master's degree in Information Systems from Northeastern University</strong>. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.</p>
+    <img src="https://komarev.com/ghpvc/?username=anjalikakade&color=green" alt="Profile Views" />
   </section>
 
   <section>
