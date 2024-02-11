@@ -33,7 +33,7 @@ Hi, I'm Anjali Kakade, a skilled **Software Developer** specializing. I recently
 ### aboutMe.js
 
 ```javascript
-const mansi = {
+const anjali = {
     pronouns: "she" | "her",
     code: ["Javascript", "Python", "R", "SQL", "C#", "HTML", "CSS", "Java"],
     askMeAbout: ["web dev", "front end", "back end", "full stack", "data analytics", "tech", "coffee"],
