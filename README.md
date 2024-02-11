@@ -26,7 +26,7 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 ## About Me
 Hi, I'm Anjali Kakade, a skilled **Software Developer** specializing. I recently graduated with a **Master's degree in Information Systems from Northeastern University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
-![](https://komarev.com/ghpvc/?username=anjalikakade&color=green)
+<!--![](https://komarev.com/ghpvc/?username=anjalikakade&color=green) -->
 
 
 
