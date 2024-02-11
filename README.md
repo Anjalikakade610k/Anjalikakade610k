@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 # Anjali Kakade
-### AnSoftware Engineer and Web Developer 💻❤️
+### A Software Engineer and Web Developer 💻❤️
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2024. Feel free to explore and get in touch!
 
 ## About Me
