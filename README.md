@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2024. Feel free to explore and get in touch!
 
 ## About Me
-Hi, I'm Anjali Kakade, a skilled **Software Developer** specializing. I recently graduated with a **Master's degree in Information Systems from Northeastern University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Anjali Kakade, a skilled **Software Developer** specializing. I recently graduated with a **Master's degree in Computer Software Engineering from Northeastern University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
 <!--![](https://komarev.com/ghpvc/?username=anjalikakade&color=green) -->
 
@@ -73,13 +73,13 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 ## Work Experience 👩‍💼
 ⚡️ UnderGraduate Teaching Assistant: Innovation - [**D'Amore-McKim School of Business at Northeastern University**](https://damore-mckim.northeastern.edu/)
 
-⚡️ Software Developer Intern - [**Crewasis**](https://crewasis.ai/)
+⚡️ Software Engineer - [**Crewasis**](https://crewasis.ai/)
 
 ⚡️ Graduate Teaching Assistant: Innovation - [**College of Engineering Northeastern University**](https://coe.northeastern.edu/)
 
 ⚡️ Instructional Assistant - [**Northeastern IT Services**](https://its.northeastern.edu/)
 
-⚡️ Software Engineer Intern - [**I Knowledge Factory**]
+⚡️ Software Engineer - [**I Knowledge Factory**]
 
 ## Cloud:
 
